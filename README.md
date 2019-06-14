@@ -12,6 +12,8 @@ Adobe XD Mockup: [Eventify Event Manager -mobile](https://xd.adobe.com/view/3571
 
 Live website (HTML, CSS, JS): [(Eventify Event Manager -HTML,CSS,JS/)](https://sulaymon333.github.io/eventify-app-no-react/)
 
+Final Live website (React & Firebase): [Eventify App- React](https://eventify-beta.netlify.com/)
+
 # <p align="center"><img src="./assets/images/demo.png"/></p>
 
 ### Author
@@ -20,9 +22,9 @@ Sulaymon Tajudeen. [Learn More](https://sulaymontajudeen.com/)
 
 ### Technologies
 
-- HTML
-- CSS
-- javaScript (Vanilla)
+-   HTML
+-   CSS
+-   javaScript (Vanilla)
 
 ### License
 
